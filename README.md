@@ -18,7 +18,7 @@ cd html-splitter
 
 # Установить Poetry (если ещё не установлено):
 ```bash
-choco install poetry
+pip install poetry
 ```
 
 # Установить зависимости
