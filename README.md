@@ -4,8 +4,15 @@
 
 ## Установка и запуск через Poetry
 
+## Клонируем репозиторий
+
 ```bash
 git clone https://github.com/SomeMedic/html-splitter.git
+```
+
+## Переходим в папку репозитория
+
+```bash
 cd html-splitter
 ```
 
